@@ -1,0 +1,26 @@
+/* line 1, ../sass/styles.scss */
+html {
+  font-size: 62.5%;
+}
+
+/* line 5, ../sass/styles.scss */
+body {
+  font: 1.2em/1.5 Arial, Helvetica, sans-serif;
+  color: #444;
+  background-color: #fff;
+}
+
+/* line 11, ../sass/styles.scss */
+article h1 {
+  font-size: 1.5em;
+  line-height: 1;
+  color: #222;
+}
+
+/* line 17, ../sass/styles.scss */
+article p {
+  color: blue;
+  opacity: 0.75;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
